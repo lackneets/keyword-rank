@@ -1,0 +1,11 @@
+{
+  "author": "Lackneets Chang <lackneets@gmail.com>",
+  "name": "keyword-rank",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+  	"request": "*",
+    "cheerio": "*",
+    "underscore": "*"
+  }
+}
